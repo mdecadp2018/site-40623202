@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623202/blog/</loc>
-<lastmod>2018-10-14T16:18:53-00:00</lastmod>
+<lastmod>2018-10-14T16:23:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623202/blog/archives.html</loc>
-<lastmod>2018-10-14T16:18:53-00:00</lastmod>
+<lastmod>2018-10-14T16:23:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623202/blog/tags.html</loc>
-<lastmod>2018-10-14T16:18:53-00:00</lastmod>
+<lastmod>2018-10-14T16:23:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623202/blog/categories.html</loc>
-<lastmod>2018-10-14T16:18:53-00:00</lastmod>
+<lastmod>2018-10-14T16:23:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,21 +39,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://mdecadp2018.github.io/site-40623202/blog/2018-Fall-Project-Blog-3.html</loc>
-<lastmod>2018-09-24T11:00:00+08:00</lastmod>
+<loc>https://mdecadp2018.github.io/site-40623202/blog/2018-Fall-Project-Blog-5.html</loc>
+<lastmod>2018-10-08T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623202/blog/2018-Fall-Project-Blog-4.html</loc>
-<lastmod>2018-09-24T11:00:00+08:00</lastmod>
+<lastmod>2018-10-01T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://mdecadp2018.github.io/site-40623202/blog/2018-Fall-Project-Blog-5.html</loc>
+<loc>https://mdecadp2018.github.io/site-40623202/blog/2018-Fall-Project-Blog-3.html</loc>
 <lastmod>2018-09-24T11:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -82,21 +82,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623202/blog/category/misc.html</loc>
-<lastmod>2018-09-24T11:00:00+08:06</lastmod>
+<lastmod>2018-10-08T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623202/blog/tag/2018fall.html</loc>
-<lastmod>2018-09-24T11:00:00+08:06</lastmod>
+<lastmod>2018-10-08T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://mdecadp2018.github.io/site-40623202/blog/author/40623202.html</loc>
-<lastmod>2018-09-24T11:00:00+08:06</lastmod>
+<lastmod>2018-10-08T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
