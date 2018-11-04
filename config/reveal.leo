@@ -27,6 +27,30 @@
 <v t="leo.20181028195749.1" a="E"><vh>Week1</vh>
 <v t="leo.20181028195749.2"><vh>W1-1</vh></v>
 </v>
+<v t="leo.20181104233314.1" a="E"><vh>Week2</vh>
+<v t="leo.20181104233314.2"><vh>W2-1</vh></v>
+</v>
+<v t="leo.20181104233426.1" a="E"><vh>Week3</vh>
+<v t="leo.20181104233426.2"><vh>W3-1</vh></v>
+</v>
+<v t="leo.20181104233416.1" a="E"><vh>Week4</vh>
+<v t="leo.20181104233416.2"><vh>W4-1</vh></v>
+</v>
+<v t="leo.20181104233404.1" a="E"><vh>Week5</vh>
+<v t="leo.20181104233404.2"><vh>W5-1</vh></v>
+</v>
+<v t="leo.20181104233409.1" a="E"><vh>Week6</vh>
+<v t="leo.20181104233409.2"><vh>W6-1</vh></v>
+</v>
+<v t="leo.20181104233458.1" a="E"><vh>Week7</vh>
+<v t="leo.20181104233458.2"><vh>W7-1</vh></v>
+</v>
+<v t="leo.20181104233507.1" a="E"><vh>Week8</vh>
+<v t="leo.20181104233507.2"><vh>W8-1</vh></v>
+</v>
+<v t="leo.20181104233516.1" a="E"><vh>Week9</vh>
+<v t="leo.20181104233516.2"><vh>W9-1</vh></v>
+</v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -340,7 +364,135 @@ make.start()
 </t>
 <t tx="leo.20181028195749.2"># W1
 
+1.認識Onshape
 
+2.登入自己的Github帳號後建立一個倉儲"40623202.github.io"，再將它clone下來。
+
+3.示範如管理自己的倉儲。
+</t>
+<t tx="leo.20181104233314.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104233314.2"># W2
+
+1.領取期中倉儲，並更改其默認分支為gh-pages
+
+</t>
+<t tx="leo.20181104233404.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104233404.2"># W5
+
+ 1.利用Onshape繪圖， 練習更多Onshape功能。
+
+</t>
+<t tx="leo.20181104233409.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104233409.2"># W6
+
+1.升級最新的CMSimfly倉儲中的flaskapp.py
+
+2.複習前幾週上課內容。
+
+*身為一個工程師，要會找答案也要會問問題，但提問前必須確認自己已經竭盡所能的想辦法解決，這樣才有資格提問。</t>
+<t tx="leo.20181104233416.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104233416.2"># W4
+
+1.學習管理BLOG及投影片。
+
+2.學習使用Onshape繪圖，認識介面及熟悉操作。
+
+3.處理BLOG的錯誤
+
+</t>
+<t tx="leo.20181104233426.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104233426.2"># W3
+
+9/24中秋節放假~
+
+</t>
+<t tx="leo.20181104233458.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104233458.2"># W7
+
+1.發生github無法正常使用
+
+2.討論發生此狀況的原因
+
+3.其他應變的方法
+
+
+
+
+
+</t>
+<t tx="leo.20181104233507.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104233507.2"># W8
+
+1.更改升級CMSimfly倉儲中的flaskapp.py後網頁的Title。
+</t>
+<t tx="leo.20181104233516.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181104233516.2"># W9
+
+期中考週 自評成績。
 
 </t>
 </tnodes>
