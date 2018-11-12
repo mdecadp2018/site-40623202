@@ -21,40 +21,43 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181028195749.1" a="E"><vh>Week1</vh>
+<v t="leo.20181028195749.1"><vh>Week1</vh>
 <v t="leo.20181028195749.2"><vh>W1-1</vh></v>
 </v>
-<v t="leo.20181104233314.1" a="E"><vh>Week2</vh>
+<v t="leo.20181104233314.1"><vh>Week2</vh>
 <v t="leo.20181104233314.2"><vh>W2-1</vh></v>
 </v>
-<v t="leo.20181104233426.1" a="E"><vh>Week3</vh>
+<v t="leo.20181104233426.1"><vh>Week3</vh>
 <v t="leo.20181104233426.2"><vh>W3-1</vh></v>
 </v>
-<v t="leo.20181104233416.1" a="E"><vh>Week4</vh>
+<v t="leo.20181104233416.1"><vh>Week4</vh>
 <v t="leo.20181104233416.2"><vh>W4-1</vh></v>
 </v>
-<v t="leo.20181104233404.1" a="E"><vh>Week5</vh>
+<v t="leo.20181104233404.1"><vh>Week5</vh>
 <v t="leo.20181104233404.2"><vh>W5-1</vh></v>
 </v>
-<v t="leo.20181104233409.1" a="E"><vh>Week6</vh>
+<v t="leo.20181104233409.1"><vh>Week6</vh>
 <v t="leo.20181104233409.2"><vh>W6-1</vh></v>
 </v>
-<v t="leo.20181104233458.1" a="E"><vh>Week7</vh>
+<v t="leo.20181104233458.1"><vh>Week7</vh>
 <v t="leo.20181104233458.2"><vh>W7-1</vh></v>
 </v>
-<v t="leo.20181104233507.1" a="E"><vh>Week8</vh>
+<v t="leo.20181104233507.1"><vh>Week8</vh>
 <v t="leo.20181104233507.2"><vh>W8-1</vh></v>
 </v>
-<v t="leo.20181104233516.1" a="E"><vh>Week9</vh>
+<v t="leo.20181104233516.1"><vh>Week9</vh>
 <v t="leo.20181104233516.2"><vh>W9-1</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20181112104534.1" a="E"><vh>Week10</vh>
+<v t="leo.20181112104534.2"><vh>W10-1</vh></v>
+</v>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -496,6 +499,25 @@ make.start()
 
 * 1.期中考週 自評成績。
 
-* 2.說明如何利用 Github Classroom 進行期末分組專題倉儲的設定</t>
+* 2.說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+
+</t>
+<t tx="leo.20181112104534.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181112104534.2"># W9
+
+* 更新P37並修改其stop.bat。
+
+* 2.YAML
+
+* 3.設計是為了解決約束條件。
+</t>
 </tnodes>
 </leo_file>

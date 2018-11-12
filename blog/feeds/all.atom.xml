@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623202/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623202/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623202/blog/</id><updated>2018-11-05T11:00:00+08:00</updated><entry><title>Week9</title><link href="https://mdecadp2018.github.io/site-40623202/blog/2018-Fall-Project-Blog-9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>40623202</name></author><id>tag:mdecadp2018.github.io,2018-11-05:/site-40623202/blog/2018-Fall-Project-Blog-9.html</id><summary type="html">&lt;p&gt;期中考週，自評。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623202/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623202/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623202/blog/</id><updated>2018-11-12T11:00:00+08:00</updated><entry><title>Week9</title><link href="https://mdecadp2018.github.io/site-40623202/blog/2018-Fall-Project-Blog-10.html" rel="alternate"></link><published>2018-11-12T11:00:00+08:00</published><updated>2018-11-12T11:00:00+08:00</updated><author><name>40623202</name></author><id>tag:mdecadp2018.github.io,2018-11-12:/site-40623202/blog/2018-Fall-Project-Blog-10.html</id><summary type="html">&lt;p&gt;更新P37並修改其stop.bat。&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;更新P37並修改其stop.bat。&lt;/p&gt;
+
+
+&lt;hr&gt;
+&lt;p&gt;設計是為了解決約束條件。&lt;/p&gt;
+&lt;p&gt;本週主要更新P37，並修改其stop.bat內容如下&lt;/p&gt;
+&lt;p&gt;@echo off
+set Disk=y
+REM 關閉 SciTE
+taskkill /IM Sc1.exe /F
+REM 關閉 python
+taskkill /IM python.exe /F
+taskkill /IM pythonw.exe /F
+REM 關閉 stunnel
+REM taskkill /IM stunnel.exe /F
+REM 關閉 fossil
+REM taskkill /IM fossil.exe /F
+REM taskkill /IM sharex.exe /F
+REM 清除 log 資料
+path=%PATH%;
+REM del /Q /F V:\tmp*.*
+REM 終止虛擬硬碟與目錄的對應
+subst %Disk%: /D
+REM 關閉 cmd 指令視窗
+taskkill /IM cmd.exe /F
+REM taskkill /IM mingw32 /F
+EXIT&lt;/p&gt;
+&lt;p&gt;心得:&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week9</title><link href="https://mdecadp2018.github.io/site-40623202/blog/2018-Fall-Project-Blog-9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>40623202</name></author><id>tag:mdecadp2018.github.io,2018-11-05:/site-40623202/blog/2018-Fall-Project-Blog-9.html</id><summary type="html">&lt;p&gt;期中考週，自評。&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;期中考週，自評。&lt;/p&gt;
 
 
