@@ -6,3 +6,5 @@
 簡報: https://mdecadp2018.github.io/site-40623202/reveal/
 
 網誌: https://mdecadp2018.github.io/site-40623202/blog
+
+分組專題倉儲: https://github.com/mdecadp2018/finalproject-bg2
