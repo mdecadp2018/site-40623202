@@ -51,8 +51,11 @@
 <v t="leo.20181104233516.1"><vh>Week9</vh>
 <v t="leo.20181104233516.2"><vh>W9-1</vh></v>
 </v>
-<v t="leo.20181112104534.1" a="E"><vh>Week10</vh>
+<v t="leo.20181112104534.1"><vh>Week10</vh>
 <v t="leo.20181112104534.2"><vh>W10-1</vh></v>
+</v>
+<v t="leo.20181119110837.1" a="E"><vh>Week11</vh>
+<v t="leo.20181119110837.2"><vh>W11-1</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -518,6 +521,20 @@ make.start()
 * 2.YAML
 
 * 3.設計是為了解決約束條件。
+</t>
+<t tx="leo.20181119110837.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181119110837.2"># W11
+
+* Git pull問題解決
+
 </t>
 </tnodes>
 </leo_file>
