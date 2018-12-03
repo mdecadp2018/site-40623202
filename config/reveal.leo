@@ -54,8 +54,14 @@
 <v t="leo.20181112104534.1"><vh>Week10</vh>
 <v t="leo.20181112104534.2"><vh>W10-1</vh></v>
 </v>
-<v t="leo.20181119110837.1" a="E"><vh>Week11</vh>
+<v t="leo.20181119110837.1"><vh>Week11</vh>
 <v t="leo.20181119110837.2"><vh>W11-1</vh></v>
+</v>
+<v t="leo.20181203100129.1" a="E"><vh>Week12</vh>
+<v t="leo.20181203100129.2"><vh>W12-1</vh></v>
+</v>
+<v t="leo.20181203100132.1" a="E"><vh>Week13</vh>
+<v t="leo.20181203100132.2"><vh>W13-1</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -532,6 +538,34 @@ make.start()
 						
 </t>
 <t tx="leo.20181119110837.2"># W11
+
+* Git pull問題解決
+
+</t>
+<t tx="leo.20181203100129.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181203100129.2"># W12
+
+* Git pull問題解決
+
+</t>
+<t tx="leo.20181203100132.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181203100132.2"># W13
 
 * Git pull問題解決
 
