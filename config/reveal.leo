@@ -57,11 +57,26 @@
 <v t="leo.20181119110837.1"><vh>Week11</vh>
 <v t="leo.20181119110837.2"><vh>W11-1</vh></v>
 </v>
-<v t="leo.20181203100129.1" a="E"><vh>Week12</vh>
+<v t="leo.20181203100129.1"><vh>Week12</vh>
 <v t="leo.20181203100129.2"><vh>W12-1</vh></v>
 </v>
-<v t="leo.20181203100132.1" a="E"><vh>Week13</vh>
+<v t="leo.20181203100132.1"><vh>Week13</vh>
 <v t="leo.20181203100132.2"><vh>W13-1</vh></v>
+</v>
+<v t="leo.20190105235835.1"><vh>Week14</vh>
+<v t="leo.20190105235835.2"><vh>W14-1</vh></v>
+</v>
+<v t="leo.20190105235839.1"><vh>Week15</vh>
+<v t="leo.20190105235839.2"><vh>W15-1</vh></v>
+</v>
+<v t="leo.20190105235841.1"><vh>Week16</vh>
+<v t="leo.20190105235841.2"><vh>W16-1</vh></v>
+</v>
+<v t="leo.20190105235843.1"><vh>Week17</vh>
+<v t="leo.20190105235843.2"><vh>W17-1</vh></v>
+</v>
+<v t="leo.20190105235837.1"><vh>Week18</vh>
+<v t="leo.20190105235837.2"><vh>W18-1</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -553,8 +568,6 @@ make.start()
 </t>
 <t tx="leo.20181203100129.2"># W12
 
-* Git pull問題解決
-
 </t>
 <t tx="leo.20181203100132.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -566,9 +579,61 @@ make.start()
 						
 </t>
 <t tx="leo.20181203100132.2"># W13
+</t>
+<t tx="leo.20190105235835.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
 
-* Git pull問題解決
 
+						
+</t>
+<t tx="leo.20190105235835.2"># W14
+</t>
+<t tx="leo.20190105235837.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105235837.2"># W18
+</t>
+<t tx="leo.20190105235839.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105235839.2"># W15
+</t>
+<t tx="leo.20190105235841.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105235841.2"># W16
+</t>
+<t tx="leo.20190105235843.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190105235843.2"># W17
 </t>
 </tnodes>
 </leo_file>
