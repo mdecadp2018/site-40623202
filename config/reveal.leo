@@ -79,7 +79,8 @@
 <v t="leo.20190105235837.2"><vh>W18-1</vh></v>
 </v>
 <v t="leo.20190107010918.1" a="E"><vh>心得</vh>
-<v t="leo.20190107010918.2"><vh>心得</vh></v>
+<v t="leo.20190107020047.1"><vh>心得</vh></v>
+<v t="leo.20190107010918.2"><vh>心得影片</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
@@ -659,7 +660,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20190107010918.2"># 心得
+<t tx="leo.20190107010918.2"># 心得影片
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/CBic0wB67SU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+</t>
+<t tx="leo.20190107020047.1"># 心得
 
 經過了這學期18週的課程及分組專案，理解了設計一個商品不是那麼簡單的事，需要透過一個團隊的分工  ，而且環環相扣，有些事情可以同時進行，但有些不行。
 分工只是一部份，在一個完整的專案中從頭到尾最不可或缺是溝通，沒有溝通甚麼東西都做不出就醫我們這次的專題來說，沒有跟組員說好需要甚麼或是圖須要怎麼畫進入V-rep模擬時會比較好作業，不然就會常常重工浪費時間。</t>
