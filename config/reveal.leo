@@ -48,16 +48,16 @@
 <v t="leo.20181104233507.1"><vh>Week8</vh>
 <v t="leo.20181104233507.2"><vh>W8-1</vh></v>
 </v>
-<v t="leo.20181104233516.1"><vh>Week9</vh>
+<v t="leo.20181104233516.1" a="E"><vh>Week9</vh>
 <v t="leo.20181104233516.2"><vh>W9-1</vh></v>
 </v>
-<v t="leo.20181112104534.1"><vh>Week10</vh>
+<v t="leo.20181112104534.1" a="E"><vh>Week10</vh>
 <v t="leo.20181112104534.2"><vh>W10-1</vh></v>
 </v>
 <v t="leo.20181119110837.1"><vh>Week11</vh>
 <v t="leo.20181119110837.2"><vh>W11-1</vh></v>
 </v>
-<v t="leo.20181203100129.1"><vh>Week12</vh>
+<v t="leo.20181203100129.1" a="E"><vh>Week12</vh>
 <v t="leo.20181203100129.2"><vh>W12-1</vh></v>
 </v>
 <v t="leo.20181203100132.1"><vh>Week13</vh>
@@ -78,10 +78,13 @@
 <v t="leo.20190105235837.1"><vh>Week18</vh>
 <v t="leo.20190105235837.2"><vh>W18-1</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
+<v t="leo.20190107010918.1" a="E"><vh>心得</vh>
+<v t="leo.20190107010918.2"><vh>心得</vh></v>
+</v>
+<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -537,12 +540,9 @@ make.start()
 </t>
 <t tx="leo.20181112104534.2"># W10
 
-* 更新P37並修改其stop.bat。
-
-* 2.YAML
-
-* 3.設計是為了解決約束條件。
-</t>
+* 開始分組協同
+* 準備各組的倉儲
+* 決定分組專案主題及分配工作</t>
 <t tx="leo.20181119110837.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -555,7 +555,8 @@ make.start()
 <t tx="leo.20181119110837.2"># W11
 
 * Git pull問題解決
-
+* 確定分組專案主題為機械手臂
+* 討論機械手臂的類型
 </t>
 <t tx="leo.20181203100129.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -568,7 +569,9 @@ make.start()
 </t>
 <t tx="leo.20181203100129.2"># W12
 
-</t>
+* 討論出一致的網站排版
+* 確定機械手臂類型
+* 搜尋各種棋類的相關資料</t>
 <t tx="leo.20181203100132.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -579,7 +582,9 @@ make.start()
 						
 </t>
 <t tx="leo.20181203100132.2"># W13
-</t>
+
+* 決定機械手臂類型—跳棋機械手臂
+* 進行機械手臂本體初步的草稿設計</t>
 <t tx="leo.20190105235835.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -590,7 +595,9 @@ make.start()
 						
 </t>
 <t tx="leo.20190105235835.2"># W14
-</t>
+
+* 完成機械手臂及棋子設計圖初稿
+* 討論夾爪的設計</t>
 <t tx="leo.20190105235837.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -601,7 +608,10 @@ make.start()
 						
 </t>
 <t tx="leo.20190105235837.2"># W18
-</t>
+
+期末考週
+
+* 統整10~17週的內容做檢查及總結</t>
 <t tx="leo.20190105235839.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -612,7 +622,9 @@ make.start()
 						
 </t>
 <t tx="leo.20190105235839.2"># W15
-</t>
+
+* 訂定最終設計圖
+* 下週開始進行v-rep的初次模擬</t>
 <t tx="leo.20190105235841.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -623,7 +635,8 @@ make.start()
 						
 </t>
 <t tx="leo.20190105235841.2"># W16
-</t>
+* 機械手臂組合完成
+* 進行v-rep的初步模擬</t>
 <t tx="leo.20190105235843.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -634,6 +647,21 @@ make.start()
 						
 </t>
 <t tx="leo.20190105235843.2"># W17
+
+* 進行v-rep最後模擬
+* 進行最後的模擬與確認</t>
+<t tx="leo.20190107010918.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
 </t>
+<t tx="leo.20190107010918.2"># 心得
+
+經過了這學期18週的課程及分組專案，理解了設計一個商品不是那麼簡單的事，需要透過一個團隊的分工  ，而且環環相扣，有些事情可以同時進行，但有些不行。
+分工只是一部份，在一個完整的專案中從頭到尾最不可或缺是溝通，沒有溝通甚麼東西都做不出就醫我們這次的專題來說，沒有跟組員說好需要甚麼或是圖須要怎麼畫進入V-rep模擬時會比較好作業，不然就會常常重工浪費時間。</t>
 </tnodes>
 </leo_file>
